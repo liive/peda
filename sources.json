@@ -1,0 +1,98 @@
+{
+  "checked": "2026-10-29",
+  "sources": [
+    "https://wolt.com/lt/ltu/kaunas/restaurant/peda",
+    "https://www.meniu.lt/vieta/peda"
+  ],
+  "photos": [
+    {
+      "slug": "peda",
+      "file": "assets/food-01.webp",
+      "name": "Vištienos troškinys",
+      "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/635b8fa4148bc876d1ccfc83/1b60ae2e-cfba-11ee-bffa-b63b71a0b6a3_vis_tienos_kepene_le_s_tros_kintos.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "slug": "peda",
+      "file": "assets/food-02.webp",
+      "name": "Kėdainių blynai su mėsa",
+      "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/635b8fa4148bc876d1ccfc83/44da095c-a843-11ed-9016-d6e12369c8d0_untitled_99.jpeg",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "slug": "peda",
+      "file": "assets/food-03.webp",
+      "name": "Cezario salotos su grill vištiena ir traškia šonine",
+      "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/635b8fa4148bc876d1ccfc83/c032e9ac-618f-11ed-bd5e-d66fa35120f4_peda_product_4.jpeg",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "slug": "peda",
+      "file": "assets/food-04.webp",
+      "name": "Naminis kiaulienos kotletas",
+      "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/635b8fa4148bc876d1ccfc83/cea120b6-61b8-11ed-a598-f6bca4089f55_kiaulienos_naminis_kotletas.jpeg",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "slug": "peda",
+      "file": "assets/food-05.webp",
+      "name": "Brokolių su rūkyta vištiena salotos",
+      "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/635b8fa4148bc876d1ccfc83/118986b6-6c90-11ed-9986-224c4dc93df8_untitled_21.jpeg",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "slug": "peda",
+      "file": "assets/food-06.webp",
+      "name": "Prancūziškas varškės pyragas",
+      "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/635b8fa4148bc876d1ccfc83/1f9711ba-9d46-11ed-92d8-9a080fce48e4_prancu_zis_kas_vars_ke_s_pyragas___s_okoladinis_brownie____napaleonas.jpeg",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "slug": "peda",
+      "file": "assets/food-07.webp",
+      "name": "Vištienos kepsnys, grybų padažas",
+      "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/635b8fa4148bc876d1ccfc83/ac9793f8-9c85-11ed-a095-66902363547a_vis_tienos_kepsnys.jpeg",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "slug": "peda",
+      "file": "assets/food-08.webp",
+      "name": "Čili troškinys su sūriu",
+      "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/635b8fa4148bc876d1ccfc83/58f611de-9244-11ed-8526-aae2724c490d_peda_list_1.jpeg",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "slug": "peda",
+      "file": "assets/food-09.webp",
+      "name": "Rūkyta-troškinta karkutė",
+      "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/635b8fa4148bc876d1ccfc83/45994212-9d45-11ed-aab7-42ff95cb9b77_rukyta_tros_kinta_karkute__su_kopu_stais.jpeg",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "slug": "peda",
+      "file": "assets/food-10.webp",
+      "name": "Naminis kiaulienos karbonadas, grybų padažas",
+      "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/635b8fa4148bc876d1ccfc83/0d957f66-6190-11ed-8c4e-36b17acbf28e_peda_product_3.jpeg",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "slug": "peda",
+      "file": "assets/food-12.webp",
+      "name": "Medaus pyragas",
+      "url": "https://wolt-menu-images-cdn.wolt.com/menu-images/635b8fa4148bc876d1ccfc83/6105c868-6591-11ed-9038-6a5b4ac8a621_untitled_165.jpeg",
+      "width": 1200,
+      "height": 675
+    }
+  ],
+  "note": "Independent design demo. No dated current-week lunch post verified; no current lunch promotion included."
+}
